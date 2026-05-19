@@ -20,4 +20,4 @@ This project demonstrates the implementation of a Library Management System usin
 # Project Structure
 
 1. Database Setup
-![ERR Diagram]()
+![ERR Diagram](EER.png)
