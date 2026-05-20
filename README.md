@@ -1,4 +1,4 @@
-# Library-Management-System-using-SQL-Project---P2
+# Library-Management-System-using-MySQL-Project---P2
 Project 2 of MySQL
 
 # Project Overview
